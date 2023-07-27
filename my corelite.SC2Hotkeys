@@ -95,6 +95,7 @@ ControlGroupRecall7=A
 ControlGroupRecall8=S
 ControlGroupRecall9=Z
 DialogDismiss=Escape
+DisplayMode=Alt+F12
 FPS=Alt+F2
 GameTooltipsOn=NumPadMultiply
 IdleWorker=F1
