@@ -474,6 +474,7 @@ CreepTumor/QueenClassic=C
 CyberneticsCore/Harvester=R
 CyberneticsCore/Probe=R
 CycloneResearchLockOnDamageUpgrade/FactoryTechLab=R
+CycloneResearchHurricaneThrusters/FactoryTechLab=V
 D8Charge/MengskReaper=Space
 D8Charge/MercReaper=Space
 D8Charge/Reaper=Space
